@@ -58,3 +58,25 @@ Never commit Discord bot tokens, Stripe API keys, webhook secrets, admin passwor
 - Add stronger token encryption at rest
 - Add per-client dashboard access
 - Improve deployment automation
+
+## Screenshots
+
+### Landing page
+
+![Landing page](screenshots/landing-page.png)
+
+### Order creation
+
+![Create order page](screenshots/create-order-page.png)
+
+### Order tracking
+
+![Order page](screenshots/order-page.png)
+
+### Admin dashboard
+
+![Admin dashboard](screenshots/admin-dashboard.png)
+
+### Grafana monitoring
+
+![Grafana monitoring](screenshots/grafana-monitoring.png)
