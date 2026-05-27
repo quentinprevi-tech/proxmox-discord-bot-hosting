@@ -1,0 +1,11 @@
+[
+  {
+    "targets": ["10.0.0.10:9100"],
+    "labels": {
+      "type": "bot",
+      "client": "example-bot",
+      "hostname": "example-bot",
+      "ctid": "201"
+    }
+  }
+]
