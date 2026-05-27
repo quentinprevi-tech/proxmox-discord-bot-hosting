@@ -108,3 +108,32 @@ Available examples:
 - [generate-bots-sd.example.sh](scripts/generate-bots-sd.example.sh)
 - [sync-bot-orders.example.sh](scripts/sync-bot-orders.example.sh)
 
+
+## Project Status
+
+This project is a homelab / private beta portfolio project.
+
+It is not presented as a production-ready hosting platform with guaranteed availability.
+
+The main goal is to demonstrate practical skills in:
+
+- system administration
+- virtualization
+- automation
+- monitoring
+- documentation
+- infrastructure troubleshooting
+
+## License
+
+This project is released under the MIT License.
+
+See [LICENSE](LICENSE) for details.
+
+## Contributing
+
+This repository is mainly a portfolio and documentation project.
+
+Feedback and suggestions are welcome, but the repository does not include production secrets, private configuration files, customer data or internal backups.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
