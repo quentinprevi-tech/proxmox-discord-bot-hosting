@@ -6,9 +6,7 @@ The goal of the project is to automate the provisioning and monitoring of Discor
 
 ## High-level Architecture
 
-Text version:
 
-User / Customer
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c0354e90-cbc8-4deb-ab4a-985b8a5fd0ec" />
 
 
