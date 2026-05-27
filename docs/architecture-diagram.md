@@ -117,3 +117,9 @@ A key design choice is that the Flask application does not directly manage Proxm
 The panel handles business logic, while the Proxmox host executes infrastructure actions through dedicated workers.
 
 This makes the project easier to understand, safer to operate, and closer to a real-world separation of responsibilities.
+
+## Visual Architecture Diagram
+
+The following diagram summarizes the main components and flows of the platform:
+
+![Architecture schema](../screenshots/architecture-schema.png)
