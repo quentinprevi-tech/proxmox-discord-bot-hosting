@@ -9,18 +9,8 @@ The goal of the project is to automate the provisioning and monitoring of Discor
 Text version:
 
 User / Customer
-  -> Flask Web Panel
-  -> SQLite Orders Database
-  -> Stripe Checkout
-  -> Stripe Webhooks
-  -> Order / Action Queue
-  -> Bash Workers on Proxmox Host
-  -> Proxmox VE
-  -> LXC Bot Container
-  -> Node Exporter
-  -> Prometheus file_sd
-  -> Prometheus
-  -> Grafana Dashboard
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c0354e90-cbc8-4deb-ab4a-985b8a5fd0ec" />
+
 
 The admin dashboard can also create actions such as start, stop, restart and delete. These actions are placed in the action queue and processed by the Proxmox host worker.
 
