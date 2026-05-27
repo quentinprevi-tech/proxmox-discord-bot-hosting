@@ -80,3 +80,31 @@ Never commit Discord bot tokens, Stripe API keys, webhook secrets, admin passwor
 ### Grafana monitoring
 
 ![Grafana monitoring](screenshots/grafana-monitoring.png)
+
+## Documentation
+
+Additional project documentation is available in the `docs/` directory:
+
+- [Architecture](docs/architecture.md)
+- [Architecture Diagram](docs/architecture-diagram.md)
+- [Security](docs/security.md)
+- [Security Design](docs/security-design.md)
+- [Monitoring](docs/monitoring.md)
+- [Incident Recovery](docs/incident-recovery.md)
+- [Lessons Learned](docs/lessons-learned.md)
+- [Roadmap](docs/roadmap.md)
+
+## Example Scripts
+
+The `scripts/` directory contains sanitized examples of the automation scripts used in the project.
+
+These scripts are provided for portfolio and documentation purposes only. They do not contain production paths, secrets, tokens, customer data or internal IP addresses.
+
+Available examples:
+
+- [create-bot.example.sh](scripts/create-bot.example.sh)
+- [bot-worker.example.sh](scripts/bot-worker.example.sh)
+- [bot-action-worker.example.sh](scripts/bot-action-worker.example.sh)
+- [generate-bots-sd.example.sh](scripts/generate-bots-sd.example.sh)
+- [sync-bot-orders.example.sh](scripts/sync-bot-orders.example.sh)
+
