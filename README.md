@@ -137,3 +137,18 @@ This repository is mainly a portfolio and documentation project.
 Feedback and suggestions are welcome, but the repository does not include production secrets, private configuration files, customer data or internal backups.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## Sanitized Flask Panel Example
+
+A sanitized Flask/SQLite example is available in [`app/`](app/).
+
+It demonstrates the order workflow used by the panel:
+
+- bot order creation
+- bot name sanitization
+- Discord token preview instead of full token storage
+- SQLite order storage
+- admin status updates
+- example statuses such as `pending_validation`, `approved`, `queued`, `running` and `failed`
+
+This example intentionally excludes production secrets, real Discord tokens, payment provider credentials and private Proxmox details.
